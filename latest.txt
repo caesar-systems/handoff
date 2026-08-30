@@ -1,26 +1,26 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T15:59:10Z
-GENERATED_AT_LISBON : 2026-08-30T16:59:10+01:00
-REPO_HEAD           : 9993b0e9ee06e3038c02669f04e40068c2fdedca
-ORIGIN_MAIN         : 9993b0e9ee06e3038c02669f04e40068c2fdedca
+GENERATED_AT_UTC    : 2026-08-30T16:13:10Z
+GENERATED_AT_LISBON : 2026-08-30T17:13:10+01:00
+REPO_HEAD           : 61871e0abc09d8e455a588f10f954de9408dbbb6
+ORIGIN_MAIN         : 61871e0abc09d8e455a588f10f954de9408dbbb6
 ============================================================
 
-External ID      : EXT-3FA33C44638AFB08
-Name             : qly.caixaleiria.dom.csv
-Environment      : EF
+External ID      : EXT-1701263663629551
+Name             : packetweb-backup-watch-ponto-situacao-20260730-1655.md
+Environment      : PACKETWEB
 Priority         : 143
-Family           : -
+Family           : FAM-7E7C456764C3
 Processing       : UNMINED
 Inventory status : ELIGIBLE
 
-Origin           : bundle_member
-Locator          : bundle:EF_DR-20260824T011741Z-1-001.zip!EF_DR/DNS/qly.caixaleiria.dom.csv
-Bundle           : EF_DR-20260824T011741Z-1-001.zip
-Member           : EF_DR/DNS/qly.caixaleiria.dom.csv
-Size             : 231
-SHA256           : 0b985f682708bff1ca714cb66defdc7b4ce9657055a21bfb7859822a1cf5662d
+Origin           : library
+Locator          : library:file_00000000092481f48da26c14f3ff58b1
+Bundle           : -
+Member           : -
+Size             : -
+SHA256           : -
 Sensitive flag   : False
 
 ============================================================
