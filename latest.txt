@@ -1,14 +1,14 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T03:51:36Z
-GENERATED_AT_LISBON : 2026-08-30T04:51:36+01:00
-REPO_HEAD           : 7ca1c30e00783ced6ac0dcb71964be8023391aab
-ORIGIN_MAIN         : 7ca1c30e00783ced6ac0dcb71964be8023391aab
+GENERATED_AT_UTC    : 2026-08-30T12:21:24Z
+GENERATED_AT_LISBON : 2026-08-30T13:21:24+01:00
+REPO_HEAD           : a98d399acda189b7fe087ee7e37f4b42a9dae1b6
+ORIGIN_MAIN         : a98d399acda189b7fe087ee7e37f4b42a9dae1b6
 ============================================================
 
-External ID      : EXT-D5A7D0E653A42977
-Name             : PSIT_Tactical_RMM_Patches_2026-08-24.md
+External ID      : EXT-431520083E176681
+Name             : PSIT_pfsense_auditoria_vpn_2026-08-24.md
 Environment      : CPLP
 Priority         : 143
 Family           : -
@@ -16,7 +16,7 @@ Processing       : UNMINED
 Inventory status : ELIGIBLE
 
 Origin           : library
-Locator          : library:file_000000000db08210835b0394e27c3d83
+Locator          : library:file_00000000c0f88210b1e9af543584acd6
 Bundle           : -
 Member           : -
 Size             : -
