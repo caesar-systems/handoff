@@ -1,14 +1,14 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T15:45:20Z
-GENERATED_AT_LISBON : 2026-08-30T16:45:20+01:00
-REPO_HEAD           : 5ca5f2cb6bbc110cefb146d45baaeb8a47a574f9
-ORIGIN_MAIN         : 5ca5f2cb6bbc110cefb146d45baaeb8a47a574f9
+GENERATED_AT_UTC    : 2026-08-30T15:59:10Z
+GENERATED_AT_LISBON : 2026-08-30T16:59:10+01:00
+REPO_HEAD           : 9993b0e9ee06e3038c02669f04e40068c2fdedca
+ORIGIN_MAIN         : 9993b0e9ee06e3038c02669f04e40068c2fdedca
 ============================================================
 
-External ID      : EXT-3F2BC444CD21B275
-Name             : dbp.ef.pt.csv
+External ID      : EXT-3FA33C44638AFB08
+Name             : qly.caixaleiria.dom.csv
 Environment      : EF
 Priority         : 143
 Family           : -
@@ -16,11 +16,11 @@ Processing       : UNMINED
 Inventory status : ELIGIBLE
 
 Origin           : bundle_member
-Locator          : bundle:EF_DR-20260824T011741Z-1-001.zip!EF_DR/DNS/dbp.ef.pt.csv
+Locator          : bundle:EF_DR-20260824T011741Z-1-001.zip!EF_DR/DNS/qly.caixaleiria.dom.csv
 Bundle           : EF_DR-20260824T011741Z-1-001.zip
-Member           : EF_DR/DNS/dbp.ef.pt.csv
-Size             : 737
-SHA256           : 70225749c73fa6822a3d27b58a2d247f4fb4c6002f6f962e65f52d7e17c20897
+Member           : EF_DR/DNS/qly.caixaleiria.dom.csv
+Size             : 231
+SHA256           : 0b985f682708bff1ca714cb66defdc7b4ce9657055a21bfb7859822a1cf5662d
 Sensitive flag   : False
 
 ============================================================
