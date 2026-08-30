@@ -1,26 +1,26 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T16:22:22Z
-GENERATED_AT_LISBON : 2026-08-30T17:22:22+01:00
-REPO_HEAD           : 716baf39fcc44ae69de227e1f775295a370be482
-ORIGIN_MAIN         : 716baf39fcc44ae69de227e1f775295a370be482
+GENERATED_AT_UTC    : 2026-08-30T16:28:10Z
+GENERATED_AT_LISBON : 2026-08-30T17:28:10+01:00
+REPO_HEAD           : 660c4d89640535b207ac5749e4d3a25cc31336de
+ORIGIN_MAIN         : 660c4d89640535b207ac5749e4d3a25cc31336de
 ============================================================
 
-External ID      : EXT-5F264D1E501E9C7C
-Name             : packetweb-hub-ponto-situacao-incremental-20260728-1831.md
-Environment      : PACKETWEB
-Priority         : 143
-Family           : FAM-CCF770151D07
+External ID      : EXT-D1209C2EDC730426
+Name             : demosef - bci.jpg
+Environment      : EF
+Priority         : 141
+Family           : -
 Processing       : UNMINED
 Inventory status : ELIGIBLE
 
-Origin           : library
-Locator          : library:file_0000000023b481f48b0305d8b0f68322
-Bundle           : -
-Member           : -
-Size             : -
-SHA256           : -
+Origin           : bundle_member
+Locator          : bundle:EF_DR-20260824T011741Z-1-001.zip!EF_DR/Backups/Evidences/07-2025/RB/demosef - bci.jpg
+Bundle           : EF_DR-20260824T011741Z-1-001.zip
+Member           : EF_DR/Backups/Evidences/07-2025/RB/demosef - bci.jpg
+Size             : 122526
+SHA256           : 62a8f2dfb177706f7572cfff634122265a24c2ee4ed6000fbd24db66da870ca7
 Sensitive flag   : False
 
 ============================================================
