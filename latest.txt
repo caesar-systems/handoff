@@ -1,0 +1,39 @@
+============================================================
+KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
+============================================================
+GENERATED_AT_UTC    : 2026-08-30T02:52:32Z
+GENERATED_AT_LISBON : 2026-08-30T03:52:32+01:00
+REPO_HEAD           : ec88a51b768ab049ea295f72f1a31b481320e041
+ORIGIN_MAIN         : ec88a51b768ab049ea295f72f1a31b481320e041
+============================================================
+
+External ID      : EXT-736B0785E1873CF0
+Name             : intranet.ef.pt.csv
+Environment      : EF
+Priority         : 148
+Family           : -
+Processing       : UNMINED
+Inventory status : ELIGIBLE
+
+Origin           : bundle_member
+Locator          : bundle:EF_DR-20260824T011741Z-1-001.zip!EF_DR/DNS/intranet.ef.pt.csv
+Bundle           : EF_DR-20260824T011741Z-1-001.zip
+Member           : EF_DR/DNS/intranet.ef.pt.csv
+Size             : 6217
+SHA256           : ad7060760eb8953fc31a9de8846e45a4c5e4278b61fe5b38ef94c75d6eca8393
+Sensitive flag   : False
+
+============================================================
+PUBLICATION POLICY
+============================================================
+This public handoff intentionally contains metadata only.
+
+The evidence body, precheck details, credentials, tokens, private
+keys, internal configuration and other potentially sensitive content
+MUST NOT be published in this repository.
+
+The full handoff remains local/private on the Knowledge host.
+
+============================================================
+END PUBLIC HANDOFF
+============================================================
