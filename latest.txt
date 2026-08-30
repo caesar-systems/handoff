@@ -1,26 +1,26 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T18:53:08Z
-GENERATED_AT_LISBON : 2026-08-30T19:53:08+01:00
-REPO_HEAD           : 84b609c53ed9b3f16c0025dc54b72604c7141565
-ORIGIN_MAIN         : 84b609c53ed9b3f16c0025dc54b72604c7141565
+GENERATED_AT_UTC    : 2026-08-30T19:11:25Z
+GENERATED_AT_LISBON : 2026-08-30T20:11:25+01:00
+REPO_HEAD           : cd15ef30fd8597af3c99788feb76c148ecb8cab1
+ORIGIN_MAIN         : cd15ef30fd8597af3c99788feb76c148ecb8cab1
 ============================================================
 
-External ID      : EXT-BAD633BB2C904F91
-Name             : docker01.intranet.ef.pt.png
-Environment      : EF
-Priority         : 132
+External ID      : EXT-4EFDA44B4D33B312
+Name             : homepage/canal/content.md
+Environment      : CPLP
+Priority         : 127
 Family           : -
 Processing       : UNMINED
 Inventory status : ELIGIBLE
 
 Origin           : bundle_member
-Locator          : bundle:EF_DR-20260824T011741Z-1-001.zip!EF_DR/Backups/DR - Restore Status/07-2025/ABB/docker01.intranet.ef.pt.png
-Bundle           : EF_DR-20260824T011741Z-1-001.zip
-Member           : EF_DR/Backups/DR - Restore Status/07-2025/ABB/docker01.intranet.ef.pt.png
-Size             : 17290
-SHA256           : 8d18aab1bf4a64d7fbb5d8caf15f33771145f629e05d191796b8f99ca88348e4
+Locator          : bundle:av-wiki.cplp.org.zip!av-wiki.cplp.org/datasets/documents/homepage/canal/content.md
+Bundle           : av-wiki.cplp.org.zip
+Member           : av-wiki.cplp.org/datasets/documents/homepage/canal/content.md
+Size             : 4356
+SHA256           : eb38b96348cf50fa7c3d2888c0a1e1c9a062fa99b41066bfa4af34cb1cb4f2b5
 Sensitive flag   : False
 
 ============================================================
