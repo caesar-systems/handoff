@@ -1,26 +1,26 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T18:28:38Z
-GENERATED_AT_LISBON : 2026-08-30T19:28:38+01:00
-REPO_HEAD           : 19132982e3f158734fa07fffdc6908648be5bf3e
-ORIGIN_MAIN         : 19132982e3f158734fa07fffdc6908648be5bf3e
+GENERATED_AT_UTC    : 2026-08-30T18:41:48Z
+GENERATED_AT_LISBON : 2026-08-30T19:41:48+01:00
+REPO_HEAD           : 68a49f9ef993871811f7c53a37055c7bab526579
+ORIGIN_MAIN         : 68a49f9ef993871811f7c53a37055c7bab526579
 ============================================================
 
-External ID      : EXT-9B34075F23029978
-Name             : pandora.jpg
-Environment      : EF
+External ID      : EXT-DB1837B7E074D883
+Name             : PSIT_PacketWeb_WikiDocs_estado_chat_2026-08-24.md
+Environment      : PACKETWEB
 Priority         : 133
 Family           : -
 Processing       : UNMINED
 Inventory status : ELIGIBLE
 
-Origin           : bundle_member
-Locator          : bundle:EF_DR-20260824T011741Z-1-001.zip!EF_DR/Backups/Evidences/07-2025/RB/pandora.jpg
-Bundle           : EF_DR-20260824T011741Z-1-001.zip
-Member           : EF_DR/Backups/Evidences/07-2025/RB/pandora.jpg
-Size             : 22012
-SHA256           : 7111efeb7e2a861e11f802ab9488dad5405f6a46b137d7f8628ff5c571155d90
+Origin           : library
+Locator          : library:file_00000000355081f49b782f9506fd1fa4
+Bundle           : -
+Member           : -
+Size             : -
+SHA256           : -
 Sensitive flag   : False
 
 ============================================================
