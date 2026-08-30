@@ -1,26 +1,26 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T16:28:10Z
-GENERATED_AT_LISBON : 2026-08-30T17:28:10+01:00
-REPO_HEAD           : 660c4d89640535b207ac5749e4d3a25cc31336de
-ORIGIN_MAIN         : 660c4d89640535b207ac5749e4d3a25cc31336de
+GENERATED_AT_UTC    : 2026-08-30T16:40:13Z
+GENERATED_AT_LISBON : 2026-08-30T17:40:13+01:00
+REPO_HEAD           : 079fe9a81a90854e3e7426fb58353ee54c54aeae
+ORIGIN_MAIN         : 079fe9a81a90854e3e7426fb58353ee54c54aeae
 ============================================================
 
-External ID      : EXT-D1209C2EDC730426
-Name             : demosef - bci.jpg
-Environment      : EF
-Priority         : 141
-Family           : -
+External ID      : EXT-9B468682560F6038
+Name             : CPLP-Nextcloud-Managed-Relink-v0.1.ps1
+Environment      : CPLP
+Priority         : 133
+Family           : FAM-CA94513F673D
 Processing       : UNMINED
 Inventory status : ELIGIBLE
 
-Origin           : bundle_member
-Locator          : bundle:EF_DR-20260824T011741Z-1-001.zip!EF_DR/Backups/Evidences/07-2025/RB/demosef - bci.jpg
-Bundle           : EF_DR-20260824T011741Z-1-001.zip
-Member           : EF_DR/Backups/Evidences/07-2025/RB/demosef - bci.jpg
-Size             : 122526
-SHA256           : 62a8f2dfb177706f7572cfff634122265a24c2ee4ed6000fbd24db66da870ca7
+Origin           : library
+Locator          : library:file_00000000095c81f4b41ef08d09be4919
+Bundle           : -
+Member           : -
+Size             : -
+SHA256           : -
 Sensitive flag   : False
 
 ============================================================
