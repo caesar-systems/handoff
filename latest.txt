@@ -1,22 +1,22 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T13:00:37Z
-GENERATED_AT_LISBON : 2026-08-30T14:00:37+01:00
-REPO_HEAD           : d41b2757ce45441c2371aa86830786bb05b65dec
-ORIGIN_MAIN         : d41b2757ce45441c2371aa86830786bb05b65dec
+GENERATED_AT_UTC    : 2026-08-30T15:12:30Z
+GENERATED_AT_LISBON : 2026-08-30T16:12:30+01:00
+REPO_HEAD           : 33cca4869d9ec23367b20dd06375af775e91559d
+ORIGIN_MAIN         : 33cca4869d9ec23367b20dd06375af775e91559d
 ============================================================
 
-External ID      : EXT-EE377801A1AED9FF
-Name             : PSIT_DR_EF_estado_chat_2026-08-24.md
+External ID      : EXT-8D71B8467987CF1D
+Name             : PSIT_DemosEF_SSH_2026-08-24.md
 Environment      : EF
 Priority         : 143
-Family           : FAM-3974261184A0
+Family           : -
 Processing       : UNMINED
 Inventory status : ELIGIBLE
 
 Origin           : library
-Locator          : library:file_00000000dd00820a8b89e7bf6ec96489
+Locator          : library:file_00000000f3b8820aa4efce0c9493fe21
 Bundle           : -
 Member           : -
 Size             : -
