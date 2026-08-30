@@ -1,26 +1,26 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T03:26:10Z
-GENERATED_AT_LISBON : 2026-08-30T04:26:10+01:00
-REPO_HEAD           : f46856bce8f8adb0a55855c7028bcfa4add40edb
-ORIGIN_MAIN         : f46856bce8f8adb0a55855c7028bcfa4add40edb
+GENERATED_AT_UTC    : 2026-08-30T03:27:44Z
+GENERATED_AT_LISBON : 2026-08-30T04:27:44+01:00
+REPO_HEAD           : a1a3045cb87d5830bcf4edb36c576ece159acabb
+ORIGIN_MAIN         : a1a3045cb87d5830bcf4edb36c576ece159acabb
 ============================================================
 
-External ID      : EXT-11361B021852231D
-Name             : dmz.ef.pt.csv
+External ID      : EXT-0C9C73FE5A25F882
+Name             : gitblit.jpg
 Environment      : EF
-Priority         : 146
+Priority         : 145
 Family           : -
 Processing       : UNMINED
 Inventory status : ELIGIBLE
 
 Origin           : bundle_member
-Locator          : bundle:EF_DR-20260824T011741Z-1-001.zip!EF_DR/DNS/dmz.ef.pt.csv
+Locator          : bundle:EF_DR-20260824T011741Z-1-001.zip!EF_DR/Backups/Evidences/07-2025/RB/gitblit.jpg
 Bundle           : EF_DR-20260824T011741Z-1-001.zip
-Member           : EF_DR/DNS/dmz.ef.pt.csv
-Size             : 2733
-SHA256           : b6067c861b774ce029e3053b2de63a4f40df05404dd1ebc3c302287601dfca8c
+Member           : EF_DR/Backups/Evidences/07-2025/RB/gitblit.jpg
+Size             : 315502
+SHA256           : 11e811a5c72c870851ae6122abeda721e635235991562e2d8be25476440431e7
 Sensitive flag   : False
 
 ============================================================
