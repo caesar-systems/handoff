@@ -1,14 +1,14 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T03:41:22Z
-GENERATED_AT_LISBON : 2026-08-30T04:41:22+01:00
-REPO_HEAD           : ed13849480be68af2b4c08055a2e708bb13d1488
-ORIGIN_MAIN         : ed13849480be68af2b4c08055a2e708bb13d1488
+GENERATED_AT_UTC    : 2026-08-30T03:51:36Z
+GENERATED_AT_LISBON : 2026-08-30T04:51:36+01:00
+REPO_HEAD           : 7ca1c30e00783ced6ac0dcb71964be8023391aab
+ORIGIN_MAIN         : 7ca1c30e00783ced6ac0dcb71964be8023391aab
 ============================================================
 
-External ID      : EXT-56AB17BB1F6ED52D
-Name             : PSIT_MessageTrace_Erros_Email_CPLP_2026-08-24.md
+External ID      : EXT-D5A7D0E653A42977
+Name             : PSIT_Tactical_RMM_Patches_2026-08-24.md
 Environment      : CPLP
 Priority         : 143
 Family           : -
@@ -16,7 +16,7 @@ Processing       : UNMINED
 Inventory status : ELIGIBLE
 
 Origin           : library
-Locator          : library:file_00000000672481f4b22b7a235c7b1049
+Locator          : library:file_000000000db08210835b0394e27c3d83
 Bundle           : -
 Member           : -
 Size             : -
