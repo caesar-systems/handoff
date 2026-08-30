@@ -1,26 +1,26 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T18:00:52Z
-GENERATED_AT_LISBON : 2026-08-30T19:00:52+01:00
-REPO_HEAD           : 02c7c8c8a4a51cde3cbf1949a32ef9db5f1834ba
-ORIGIN_MAIN         : 02c7c8c8a4a51cde3cbf1949a32ef9db5f1834ba
+GENERATED_AT_UTC    : 2026-08-30T18:16:10Z
+GENERATED_AT_LISBON : 2026-08-30T19:16:10+01:00
+REPO_HEAD           : 5f9881e6add51f95c54ca8da47ef7a245f2c2c52
+ORIGIN_MAIN         : 5f9881e6add51f95c54ca8da47ef7a245f2c2c52
 ============================================================
 
-External ID      : EXT-F2189330207DCE4C
-Name             : homepage/servidor-ipiranga/content.md
-Environment      : CPLP
+External ID      : EXT-618B0C45036F5E67
+Name             : PSIT_OpenVPN_EF_Wintun_SplitTunnel_DMZ_2026-08-24.md
+Environment      : EF
 Priority         : 133
 Family           : -
 Processing       : UNMINED
 Inventory status : ELIGIBLE
 
-Origin           : bundle_member
-Locator          : bundle:av-wiki.cplp.org.zip!av-wiki.cplp.org/datasets/documents/homepage/servidor-ipiranga/content.md
-Bundle           : av-wiki.cplp.org.zip
-Member           : av-wiki.cplp.org/datasets/documents/homepage/servidor-ipiranga/content.md
-Size             : 84
-SHA256           : f6df5c3464f494d356c0d094df6508d8e9e633fa4ae63d85ba491e5ba04f7228
+Origin           : library
+Locator          : library:file_000000007a488246a4fb857bc92e8208
+Bundle           : -
+Member           : -
+Size             : -
+SHA256           : -
 Sensitive flag   : False
 
 ============================================================
