@@ -1,26 +1,26 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T03:17:51Z
-GENERATED_AT_LISBON : 2026-08-30T04:17:51+01:00
-REPO_HEAD           : aa9a77bf2be304fc97e7843427ca3c126cff1135
-ORIGIN_MAIN         : aa9a77bf2be304fc97e7843427ca3c126cff1135
+GENERATED_AT_UTC    : 2026-08-30T03:26:10Z
+GENERATED_AT_LISBON : 2026-08-30T04:26:10+01:00
+REPO_HEAD           : f46856bce8f8adb0a55855c7028bcfa4add40edb
+ORIGIN_MAIN         : f46856bce8f8adb0a55855c7028bcfa4add40edb
 ============================================================
 
-External ID      : EXT-C7F94E78881D65F0
-Name             : Zoom Meetings.xlsx
-Environment      : CPLP
+External ID      : EXT-11361B021852231D
+Name             : dmz.ef.pt.csv
+Environment      : EF
 Priority         : 146
 Family           : -
 Processing       : UNMINED
 Inventory status : ELIGIBLE
 
 Origin           : bundle_member
-Locator          : bundle:Operações CPLP-20260824T011623Z-1-001.zip!Operações CPLP/Zoom Meetings.xlsx
-Bundle           : Operações CPLP-20260824T011623Z-1-001.zip
-Member           : Operações CPLP/Zoom Meetings.xlsx
-Size             : 40740
-SHA256           : 548af29e1c0ae49f9b3e5f257f2ea3a44f7baeb8adc1f8c3eb8d8f16987cc46d
+Locator          : bundle:EF_DR-20260824T011741Z-1-001.zip!EF_DR/DNS/dmz.ef.pt.csv
+Bundle           : EF_DR-20260824T011741Z-1-001.zip
+Member           : EF_DR/DNS/dmz.ef.pt.csv
+Size             : 2733
+SHA256           : b6067c861b774ce029e3053b2de63a4f40df05404dd1ebc3c302287601dfca8c
 Sensitive flag   : False
 
 ============================================================
