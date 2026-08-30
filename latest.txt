@@ -1,26 +1,26 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T03:27:44Z
-GENERATED_AT_LISBON : 2026-08-30T04:27:44+01:00
-REPO_HEAD           : a1a3045cb87d5830bcf4edb36c576ece159acabb
-ORIGIN_MAIN         : a1a3045cb87d5830bcf4edb36c576ece159acabb
+GENERATED_AT_UTC    : 2026-08-30T03:30:54Z
+GENERATED_AT_LISBON : 2026-08-30T04:30:54+01:00
+REPO_HEAD           : 81f91bd166f436ae31cd4f06a8d6322c7526cd23
+ORIGIN_MAIN         : 81f91bd166f436ae31cd4f06a8d6322c7526cd23
 ============================================================
 
-External ID      : EXT-0C9C73FE5A25F882
-Name             : gitblit.jpg
-Environment      : EF
-Priority         : 145
+External ID      : EXT-6C6951A6141F9F5C
+Name             : CPLP-Hardening-Summary.md
+Environment      : CPLP
+Priority         : 143
 Family           : -
 Processing       : UNMINED
 Inventory status : ELIGIBLE
 
-Origin           : bundle_member
-Locator          : bundle:EF_DR-20260824T011741Z-1-001.zip!EF_DR/Backups/Evidences/07-2025/RB/gitblit.jpg
-Bundle           : EF_DR-20260824T011741Z-1-001.zip
-Member           : EF_DR/Backups/Evidences/07-2025/RB/gitblit.jpg
-Size             : 315502
-SHA256           : 11e811a5c72c870851ae6122abeda721e635235991562e2d8be25476440431e7
+Origin           : library
+Locator          : library:file_00000000ed08724390b4bba57e1ed0b2
+Bundle           : -
+Member           : -
+Size             : -
+SHA256           : -
 Sensitive flag   : False
 
 ============================================================
