@@ -1,10 +1,10 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T20:47:42Z
-GENERATED_AT_LISBON : 2026-08-30T21:47:42+01:00
-REPO_HEAD           : bef99c48e2d9dd22969154ec1b47df10fe860a48
-ORIGIN_MAIN         : bef99c48e2d9dd22969154ec1b47df10fe860a48
+GENERATED_AT_UTC    : 2026-08-30T21:30:38Z
+GENERATED_AT_LISBON : 2026-08-30T22:30:38+01:00
+REPO_HEAD           : a24d6e9314478d1ccfbaf405c7beeea5c0b91b15
+ORIGIN_MAIN         : a24d6e9314478d1ccfbaf405c7beeea5c0b91b15
 ============================================================
 
 External ID      : EXT-4EFDA44B4D33B312
