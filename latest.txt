@@ -1,27 +1,27 @@
 ============================================================
 KNOWLEDGE v2 — PUBLIC NEXT TARGET HANDOFF
 ============================================================
-GENERATED_AT_UTC    : 2026-08-30T21:45:50Z
-GENERATED_AT_LISBON : 2026-08-30T22:45:50+01:00
-REPO_HEAD           : 2fd870dfb1de2b74a2f580210fb3cce3ef6fe5c1
-ORIGIN_MAIN         : 2fd870dfb1de2b74a2f580210fb3cce3ef6fe5c1
+GENERATED_AT_UTC    : 2026-08-31T01:08:14Z
+GENERATED_AT_LISBON : 2026-08-31T02:08:14+01:00
+REPO_HEAD           : df3b859cd652983e1d2c140d77d9b72bd298e8e4
+ORIGIN_MAIN         : df3b859cd652983e1d2c140d77d9b72bd298e8e4
 ============================================================
 
-External ID      : EXT-4EFDA44B4D33B312
-Name             : homepage/canal/content.md
-Environment      : CPLP
-Priority         : 127
+External ID      : EXT-0B78D4EA7FC92DA3
+Name             : PSIT_CONTCARE_PRICTC_Windows2016_SQL_CEGID_2026-08-30.md
+Environment      : CONTCARE
+Priority         : 165
 Family           : -
 Processing       : UNMINED
 Inventory status : ELIGIBLE
 
-Origin           : bundle_member
-Locator          : bundle:av-wiki.cplp.org.zip!av-wiki.cplp.org/datasets/documents/homepage/canal/content.md
-Bundle           : av-wiki.cplp.org.zip
-Member           : av-wiki.cplp.org/datasets/documents/homepage/canal/content.md
-Size             : 4356
-SHA256           : eb38b96348cf50fa7c3d2888c0a1e1c9a062fa99b41066bfa4af34cb1cb4f2b5
-Sensitive flag   : False
+Origin           : mounted_external
+Locator          : mounted-sha256:3c6e1d87c8c3ce388de8df9c98b5cf36097244aca3ef541409e13ffd921cbbd0
+Bundle           : -
+Member           : -
+Size             : 33574
+SHA256           : 3c6e1d87c8c3ce388de8df9c98b5cf36097244aca3ef541409e13ffd921cbbd0
+Sensitive flag   : True
 
 ============================================================
 PUBLICATION POLICY
